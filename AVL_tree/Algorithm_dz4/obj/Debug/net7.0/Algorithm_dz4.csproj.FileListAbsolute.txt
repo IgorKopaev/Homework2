@@ -1,0 +1,15 @@
+/Users/olegkopaev/Projects/Algorithm_dz4/Algorithm_dz4/bin/Debug/net7.0/Algorithm_dz4
+/Users/olegkopaev/Projects/Algorithm_dz4/Algorithm_dz4/bin/Debug/net7.0/Algorithm_dz4.deps.json
+/Users/olegkopaev/Projects/Algorithm_dz4/Algorithm_dz4/bin/Debug/net7.0/Algorithm_dz4.runtimeconfig.json
+/Users/olegkopaev/Projects/Algorithm_dz4/Algorithm_dz4/bin/Debug/net7.0/Algorithm_dz4.dll
+/Users/olegkopaev/Projects/Algorithm_dz4/Algorithm_dz4/bin/Debug/net7.0/Algorithm_dz4.pdb
+/Users/olegkopaev/Projects/Algorithm_dz4/Algorithm_dz4/obj/Debug/net7.0/Algorithm_dz4.csproj.AssemblyReference.cache
+/Users/olegkopaev/Projects/Algorithm_dz4/Algorithm_dz4/obj/Debug/net7.0/Algorithm_dz4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olegkopaev/Projects/Algorithm_dz4/Algorithm_dz4/obj/Debug/net7.0/Algorithm_dz4.AssemblyInfoInputs.cache
+/Users/olegkopaev/Projects/Algorithm_dz4/Algorithm_dz4/obj/Debug/net7.0/Algorithm_dz4.AssemblyInfo.cs
+/Users/olegkopaev/Projects/Algorithm_dz4/Algorithm_dz4/obj/Debug/net7.0/Algorithm_dz4.csproj.CoreCompileInputs.cache
+/Users/olegkopaev/Projects/Algorithm_dz4/Algorithm_dz4/obj/Debug/net7.0/Algorithm_dz4.dll
+/Users/olegkopaev/Projects/Algorithm_dz4/Algorithm_dz4/obj/Debug/net7.0/refint/Algorithm_dz4.dll
+/Users/olegkopaev/Projects/Algorithm_dz4/Algorithm_dz4/obj/Debug/net7.0/Algorithm_dz4.pdb
+/Users/olegkopaev/Projects/Algorithm_dz4/Algorithm_dz4/obj/Debug/net7.0/Algorithm_dz4.genruntimeconfig.cache
+/Users/olegkopaev/Projects/Algorithm_dz4/Algorithm_dz4/obj/Debug/net7.0/ref/Algorithm_dz4.dll

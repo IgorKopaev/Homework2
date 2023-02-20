@@ -1,0 +1,15 @@
+/Users/olegkopaev/Projects/Algorithm_dz6/Algorithm_dz6/bin/Debug/net7.0/Algorithm_dz6
+/Users/olegkopaev/Projects/Algorithm_dz6/Algorithm_dz6/bin/Debug/net7.0/Algorithm_dz6.deps.json
+/Users/olegkopaev/Projects/Algorithm_dz6/Algorithm_dz6/bin/Debug/net7.0/Algorithm_dz6.runtimeconfig.json
+/Users/olegkopaev/Projects/Algorithm_dz6/Algorithm_dz6/bin/Debug/net7.0/Algorithm_dz6.dll
+/Users/olegkopaev/Projects/Algorithm_dz6/Algorithm_dz6/bin/Debug/net7.0/Algorithm_dz6.pdb
+/Users/olegkopaev/Projects/Algorithm_dz6/Algorithm_dz6/obj/Debug/net7.0/Algorithm_dz6.csproj.AssemblyReference.cache
+/Users/olegkopaev/Projects/Algorithm_dz6/Algorithm_dz6/obj/Debug/net7.0/Algorithm_dz6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olegkopaev/Projects/Algorithm_dz6/Algorithm_dz6/obj/Debug/net7.0/Algorithm_dz6.AssemblyInfoInputs.cache
+/Users/olegkopaev/Projects/Algorithm_dz6/Algorithm_dz6/obj/Debug/net7.0/Algorithm_dz6.AssemblyInfo.cs
+/Users/olegkopaev/Projects/Algorithm_dz6/Algorithm_dz6/obj/Debug/net7.0/Algorithm_dz6.csproj.CoreCompileInputs.cache
+/Users/olegkopaev/Projects/Algorithm_dz6/Algorithm_dz6/obj/Debug/net7.0/Algorithm_dz6.dll
+/Users/olegkopaev/Projects/Algorithm_dz6/Algorithm_dz6/obj/Debug/net7.0/refint/Algorithm_dz6.dll
+/Users/olegkopaev/Projects/Algorithm_dz6/Algorithm_dz6/obj/Debug/net7.0/Algorithm_dz6.pdb
+/Users/olegkopaev/Projects/Algorithm_dz6/Algorithm_dz6/obj/Debug/net7.0/Algorithm_dz6.genruntimeconfig.cache
+/Users/olegkopaev/Projects/Algorithm_dz6/Algorithm_dz6/obj/Debug/net7.0/ref/Algorithm_dz6.dll
